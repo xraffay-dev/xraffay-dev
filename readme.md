@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<i><h3 align="center">A driven software engineer, coding dreams and debugging innovation.</h3></i>
 
 - 🌱 I’m currently learning **React**
 

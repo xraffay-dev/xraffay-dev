@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [github.com](github.com)
+- 👨‍💻 All of my projects are available at [github.com](https://github.com/xraffay-dev?tab=repositories)
 
 - 💬 Ask me about **Web dev, App dev, Data Science.**
 
 - 📫 How to reach me **abdulnaveed2004@gmail.com**
 
-- 📄 Know about my experiences [drive.google.com](drive.google.com)
+- 📄 Know about my experiences [drive.google.com](https://drive.google.com/drive/folders/1l6TYIAxni_xlB_ooubqdkj8YSOg8BkXg)
 
 - ⚡ Fun fact **I can solve a Rubik's cube under 2 minutes**
 

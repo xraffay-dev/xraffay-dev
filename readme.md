@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com](https://github.com/xraffay-dev?tab=repositories)
 
-- 💬 Ask me about **Web dev, App dev, Data Science.**
+- 💬 Ask me about **Software Engineering and Data Science.**
 
 - 📫 How to reach me **abdulnaveed2004@gmail.com**
 

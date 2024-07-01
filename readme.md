@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 <i><h3 align="center">A driven software engineer, coding dreams and debugging innovation.</h3></i>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Backend Devlopment**
 
 - 👨‍💻 All of my projects are available at [github.com](https://github.com/xraffay-dev?tab=repositories)
 

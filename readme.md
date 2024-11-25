@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Software Engineering and Data Science.**
 
-- 📫 How to reach me **abdulnaveed2004@gmail.com**
+- 📫 How to reach me **xraffay.dev@gmail.com**
 
 - 📄 Know about my experiences [drive.google.com](https://drive.google.com/drive/folders/1l6TYIAxni_xlB_ooubqdkj8YSOg8BkXg)
 
